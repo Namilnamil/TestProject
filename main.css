@@ -1,0 +1,12 @@
+.text1 {
+  width: 200px;
+  height: 100px;
+  color: red;
+  background-color: yellow;
+}
+.text1:hover {
+  width: 400px;
+  height: 70px;
+  color: blue;
+  background-color: pink;
+}
